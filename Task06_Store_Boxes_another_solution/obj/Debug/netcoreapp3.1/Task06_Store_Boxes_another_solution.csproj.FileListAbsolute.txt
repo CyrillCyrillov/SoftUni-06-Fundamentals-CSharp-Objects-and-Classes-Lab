@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\obj\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\obj\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\obj\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\bin\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.exe
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\bin\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.deps.json
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\bin\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.runtimeconfig.json
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\bin\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\bin\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.dll
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\bin\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.pdb
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\obj\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.dll
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\obj\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.pdb
+C:\Users\Kiril\source\repos\06_Lab\Task06_Store_Boxes_another_solution\obj\Debug\netcoreapp3.1\Task06_Store_Boxes_another_solution.genruntimeconfig.cache
