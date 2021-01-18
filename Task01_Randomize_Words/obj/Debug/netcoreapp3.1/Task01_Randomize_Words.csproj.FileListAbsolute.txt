@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\bin\Debug\netcoreapp3.1\Task01_Randomize_Words.exe
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\bin\Debug\netcoreapp3.1\Task01_Randomize_Words.deps.json
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\bin\Debug\netcoreapp3.1\Task01_Randomize_Words.runtimeconfig.json
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\bin\Debug\netcoreapp3.1\Task01_Randomize_Words.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\bin\Debug\netcoreapp3.1\Task01_Randomize_Words.dll
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\bin\Debug\netcoreapp3.1\Task01_Randomize_Words.pdb
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\obj\Debug\netcoreapp3.1\Task01_Randomize_Words.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\obj\Debug\netcoreapp3.1\Task01_Randomize_Words.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\obj\Debug\netcoreapp3.1\Task01_Randomize_Words.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\obj\Debug\netcoreapp3.1\Task01_Randomize_Words.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\obj\Debug\netcoreapp3.1\Task01_Randomize_Words.dll
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\obj\Debug\netcoreapp3.1\Task01_Randomize_Words.pdb
+C:\Users\Kiril\source\repos\06_Lab\06_Lab\obj\Debug\netcoreapp3.1\Task01_Randomize_Words.genruntimeconfig.cache
